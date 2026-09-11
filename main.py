@@ -46,7 +46,7 @@ set_site_information(
     description="Counter increases and decreases when you click corresponding button.",
     sources="Thanks to the Drafter docs and my study group.",
     planning="plan.pdf",
-    links=["https://github.com/"]
+    links=["https://github.com/jfgordon1/drafter-tutorial-2026"]
 )
 hide_debug_information()
 set_website_framed(False)
